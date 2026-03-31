@@ -1,0 +1,13 @@
+{
+  "name": "vault-messenger-v62",
+  "version": "6.2.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
